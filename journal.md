@@ -26,8 +26,14 @@ Before starting work on the schematic, I performed further research on some othe
 - ✅ The microcontroller will be a Raspberry Pi Pico
 - ✅ I will be using MX Brown switches (ideally)
 
-# June 7th x:y AM
+# June 7th ~1:00 AM
 Continued working on the schematic. I have finished the key matrix and will be using the Adafruit MCP23017 to increase pinouts. 
 https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5346/15913270
 I will also be adding a rotary encoder, it should be helpful for volume/mode settings.
 https://www.sparkfun.com/rotary-encoder.html
+
+# June 7th 5:33 AM 
+Completed Schematic. It was somewhat tedious and took longer than expected but everything looks good at the end at least. Will begin work on PCB now.
+Low Res Preview of Schematic: 
+![image](https://github.com/user-attachments/assets/adca0cd6-aaca-46dd-8a35-3622b7d13c3c)
+
