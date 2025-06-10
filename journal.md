@@ -29,3 +29,5 @@ Before starting work on the schematic, I performed further research on some othe
 # June 7th x:y AM
 Continued working on the schematic. I have finished the key matrix and will be using the Adafruit MCP23017 to increase pinouts. 
 https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5346/15913270
+I will also be adding a rotary encoder, it should be helpful for volume/mode settings.
+https://www.sparkfun.com/rotary-encoder.html
