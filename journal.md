@@ -11,7 +11,7 @@ I have been thinking of this project for a while but was delayed due to some set
 In my final design, I really want ...
 - Hotswappable keys. This will be achieved by using Kalih Hot-swappable sockets, which are fortunately compatible with all MX style switches.
 - ✅ OLED Display for mode display (probably SSD1306)
-- Customizable RGB screen/display, for showing custom animations (SSD1331 perhaps)
+- ❎ ~~Customizable RGB screen/display, for showing custom animations (SSD1331 perhaps).~~ After further research, this has proven too difficult to implement in in a keyboard, and I will implement this in my other custom project. 
 
 Some more standard features ...
 - ✅ RGB lighting. Ideally, I want to have a led strip on the rim of the keyboard with a plastic covering so that they are not within line of sight, and provide a cool backlight. I could also just place a singular strip on the backside of the keyboard.
