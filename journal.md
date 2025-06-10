@@ -4,27 +4,27 @@ author: "@Scalar on slack"
 description: "A TKL Keyboard made fully in house"
 created_at: "2025-06-09"
 ---
-
+✅ : implemented already
 # June 6th, 12:06 PM - First Update Since Project Start
 I have been thinking of this project for a while but was delayed due to some setbacks with my hackpad, which means I will need to accelerate work on this project. I began by doing some research of various aspects/qualities of keyboards, and decided which ones I wanted to implement in my final design. 
 
 In my final design, I really want ...
 - Hotswappable keys. This will be achieved by using Kalih Hot-swappable switches, which are fortunately compatible with all MX style switches.
-- OLED Display for mode display (probably SSD1306)
+- ✅ OLED Display for mode display (probably SSD1306)
 - Customizable RGB screen/display, for showing custom animations (SSD1331 perhaps)
 
 Some more standard features ...
 - RGB lighting. Ideally, I want to have a led strip on the rim of the keyboard with a plastic covering so that they are not within line of sight, and provide a cool backlight. I could also just place a singular strip on the backside of the keyboard.
 - Macros powered by a custom software where display settings, etc can be controlled.
-- Mode setting keys.
+- ✅ Mode setting keys.
 - Either a built in kickstand or some attachment/feature to increase the angle of the keyboard.
 - A foam/soft touch wristpad. 
 
 # June 6th, 11:59 AM - Finalizing Project Goals
 
 Before starting work on the schematic, I performed further research on some other aspects of the keyboard I wanted in my final design. I was thinking of using the Sparkfun Pro Micro rp2040 chip as my microcontroller, but I decided against it and will be using a Pico (v1) instead. The only con i can think of with regards to this is that I wont have USB-C connectivity, but that can be fixed by replacing the microcontroller with a clone from alibaba after highway is complete (I only want parts that can be shipped + recieved within 7 days). 
-- The microcontroller will be a Raspberry Pi Pico
-- I will be using MX Brown switches (ideally)
+- ✅ The microcontroller will be a Raspberry Pi Pico
+- ✅ I will be using MX Brown switches (ideally)
 
 # June 7th x:y AM
 Continued working on the schematic. I have finished the key matrix and will be using the Adafruit MCP23017 to increase pinouts. 
