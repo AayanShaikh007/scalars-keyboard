@@ -19,3 +19,9 @@ Some more standard features ...
 - Mode setting keys.
 - Either a built in kickstand or some attachment/feature to increase the angle of the keyboard.
 - A foam/soft touch wristpad. 
+
+# June 6th, 11:59 AM - Finalizing Project Goals
+
+Before starting work on the schematic, I performed further research on some other aspects of the keyboard I wanted in my final design. I was thinking of using the Sparkfun Pro Micro rp2040 chip as my microcontroller, but I decided against it and will be using a Pico (v1) instead. The only con i can think of with regards to this is that I wont have USB-C connectivity, but that can be fixed by replacing the microcontroller with a clone from alibaba after highway is complete (I only want parts that can be shipped + recieved within 7 days). 
+- The microcontroller will be a Raspberry Pi Pico
+- I will be using MX Brown switches (ideally)
