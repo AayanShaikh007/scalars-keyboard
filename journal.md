@@ -35,5 +35,8 @@ https://www.sparkfun.com/rotary-encoder.html
 # June 7th 5:33 AM 
 Completed Schematic. It was somewhat tedious and took longer than expected but everything looks good at the end at least. Will begin work on PCB now.
 Low Res Preview of Schematic: 
+
 ![image](https://github.com/user-attachments/assets/adca0cd6-aaca-46dd-8a35-3622b7d13c3c)
 
+# June 7th x:y AM
+- 
