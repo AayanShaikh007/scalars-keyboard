@@ -25,3 +25,7 @@ Some more standard features ...
 Before starting work on the schematic, I performed further research on some other aspects of the keyboard I wanted in my final design. I was thinking of using the Sparkfun Pro Micro rp2040 chip as my microcontroller, but I decided against it and will be using a Pico (v1) instead. The only con i can think of with regards to this is that I wont have USB-C connectivity, but that can be fixed by replacing the microcontroller with a clone from alibaba after highway is complete (I only want parts that can be shipped + recieved within 7 days). 
 - The microcontroller will be a Raspberry Pi Pico
 - I will be using MX Brown switches (ideally)
+
+# June 7th x:y AM
+Continued working on the schematic. I have finished the key matrix and will be using the Adafruit MCP23017 to increase pinouts. 
+https://www.digikey.ca/en/products/detail/adafruit-industries-llc/5346/15913270
