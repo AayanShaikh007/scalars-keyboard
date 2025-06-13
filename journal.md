@@ -4,6 +4,7 @@ author: "@Scalar on slack"
 description: "A TKL Keyboard made fully in house"
 created_at: "2025-06-09"
 ---
+Estimated Total Time: 27 hours
 ✅ : implemented already
 # June 9th, 12:06 PM - First Update Since Project Start - 3h
 I have been thinking of this project for a while but was delayed due to some setbacks with my hackpad, which means I will need to accelerate work on this project. I began by doing some research of various aspects/qualities of keyboards, and decided which ones I wanted to implement in my final design. 
