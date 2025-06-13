@@ -7,6 +7,7 @@ I've always wanted to make a mechanical keyboard, and after owning two proprieta
 Assembled Board:
 
 ![image](https://github.com/user-attachments/assets/96314946-40e0-4cc4-90c5-58accdf9855d)
+![Screenshot 2025-06-13 155209](https://github.com/user-attachments/assets/2fb8cdb9-6dff-47d4-8d1d-1af1cc0c949b)
 
 PCB (3d and editor)
 
