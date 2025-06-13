@@ -5,7 +5,9 @@ description: "A TKL Keyboard made fully in house"
 created_at: "2025-06-09"
 ---
 Estimated Total Time: 27 hours
+
 ✅ : implemented already
+
 # June 9th, 12:06 PM - First Update Since Project Start - 3h
 I have been thinking of this project for a while but was delayed due to some setbacks with my hackpad, which means I will need to accelerate work on this project. I began by doing some research of various aspects/qualities of keyboards, and decided which ones I wanted to implement in my final design. 
 
@@ -17,9 +19,9 @@ In my final design, I really want ...
 Some more standard features ...
 - ✅ RGB lighting. Ideally, I want to have a led strip on the rim of the keyboard with a plastic covering so that they are not within line of sight, and provide a cool backlight. I could also just place a singular strip on the backside of the keyboard.
 - ✅ Mode setting keys.
-- Macros powered by a custom software where display settings, etc can be controlled.
-- Either a built in kickstand or some attachment/feature to increase the angle of the keyboard.
-- A foam/soft touch wristpad. 
+- ✅ Macros powered by a custom software where display settings, etc can be controlled.
+- ✅ Either a built in kickstand or some attachment/feature to increase the angle of the keyboard (3d printable after assembly).
+- ✅ A foam/soft touch wristpad. (will order from amazon after project completion)
 
 # June 9th, 11:59 AM - Finalizing Project Goals - 1h
 
