@@ -45,6 +45,12 @@ Preview of PCB:
 
 ![image](https://github.com/user-attachments/assets/e1bad259-8ecc-49dd-96f6-f23124d82013)
 
+# June 11th
+Instead of wiring the PCB, once I had arranged the switches/parts and was satisfied with they position, I worked on the 3D files of the keyboard so I could make changes to the structure while I still had the chance. I used the hackpad guide for this and it helped me greatly. Once this was finished I began wiring the PCB.
+
 # June 12th 10:49 PM
 - Finally, after probably 10 hours of work, I have finished wiring the PCB. This was so unbelievably complicated and strenuous, but it has left me feeling really proud of what I made- this project may even be the most challenging thing I have done.
-- 
+
+![image](https://github.com/user-attachments/assets/1f7c892b-70d2-49d4-b0b0-6b262a3bdd02)
+
+This should conclude the project! I will add updates as I assemble the actual parts. 
