@@ -45,3 +45,6 @@ Preview of PCB:
 
 ![image](https://github.com/user-attachments/assets/e1bad259-8ecc-49dd-96f6-f23124d82013)
 
+# June 12th 10:49 PM
+- Finally, after probably 10 hours of work, I have finished wiring the PCB. This was so unbelievably complicated and strenuous, but it has left me feeling really proud of what I made- this project may even be the most challenging thing I have done.
+- 
