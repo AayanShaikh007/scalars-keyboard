@@ -8,14 +8,16 @@ Assembled Board (Switches here are red, but should actually be brown):
 
 ![image](https://github.com/user-attachments/assets/96314946-40e0-4cc4-90c5-58accdf9855d)
 ![Screenshot 2025-06-13 155209](https://github.com/user-attachments/assets/2fb8cdb9-6dff-47d4-8d1d-1af1cc0c949b)
+![Screenshot 2025-06-19 140931](https://github.com/user-attachments/assets/278000d3-8577-4ad1-a3e0-4bd35c45a597)
 
-PCB (3d and editor)
+
+PCB (3d and editor) (Note: 3d rendering of PCB does not show silkscreen- see pcb editor screenshot for updated view of pcb)
 
 ![image](https://github.com/user-attachments/assets/55e41f4b-56f4-427e-9fce-d07670d0b0bb)
 
 ![image](https://github.com/user-attachments/assets/b4fdc701-929d-49c5-a624-65f93a84e46d)
 
-![Screenshot 2025-06-12 230357](https://github.com/user-attachments/assets/cd3a7c39-a499-4f46-84cc-f2c2c7571e5d)
+![Screenshot 2025-06-19 135428](https://github.com/user-attachments/assets/70b56bcf-2b52-496e-bacf-4ce6c7c094a8)
 
 
 ## BOM:
