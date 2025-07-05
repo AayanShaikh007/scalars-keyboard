@@ -57,3 +57,9 @@ Instead of wiring the PCB, once I had arranged the switches/parts and was satisf
 ![image](https://github.com/user-attachments/assets/1f7c892b-70d2-49d4-b0b0-6b262a3bdd02)
 
 This should conclude the project! I will add updates as I assemble the actual parts. 
+
+# July 3rd 
+Now that all parts have arrived, i began soldering the board. i started small by just soldering a couple of diodes for today.
+
+# July 4th
+I wanted to test some components before soldering them onto the PCB. I tested the pico, and once that was secured to the PCB, I worked on getting some of the rgb LEDs to work. All components work as intended thus far.
