@@ -47,3 +47,4 @@ Amazon parts cost comes out to 168.87 CAD, leaving 36 dollars for pcb
 
 # Youtube Demo
 
+https://youtu.be/qIi-tUGdEp4
