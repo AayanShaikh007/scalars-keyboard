@@ -42,3 +42,8 @@ PCB (3d and editor) (Note: 3d rendering of PCB does not show silkscreen- see pcb
 
 
 Amazon parts cost comes out to 168.87 CAD, leaving 36 dollars for pcb
+
+# Finished Product
+
+# Youtube Demo
+
