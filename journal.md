@@ -80,4 +80,4 @@ I worked on the firmware of the keyboard for these two days. I quickly realized 
 # July 17th
 After undercity, I got back to work on the case of the keyboard. After printing a number of failed top plate designs, I realized that I could print one that fits inside the case, flush with the top of the case. After spending around 1-2 hours modelling the top plate, I printed a plate that actually fit properly. I then spent a few hours removing all of the keycaps and keyswitches, inserting them into the top plate, and securing them to the pcb again. This essentially concludes the build process.
 
-![1000003593](https://github.com/user-attachments/assets/32de66a3-fd6e-426c-a1f4-dc091e3f732e)
+![IMG_20250721_150115358](https://github.com/user-attachments/assets/35402feb-0854-481f-aa04-955a4779835e)
