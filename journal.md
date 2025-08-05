@@ -17,7 +17,6 @@ In my final design, I really want ...
 - ❎ ~~Customizable RGB screen/display, for showing custom animations (SSD1331 perhaps).~~ After further research, this has proven too difficult to implement in in a keyboard, and I will implement this in my other custom project. 
 
 Some more standard features ...
-- ✅ RGB lighting. Ideally, I want to have a led strip on the rim of the keyboard with a plastic covering so that they are not within line of sight, and provide a cool backlight. I could also just place a singular strip on the backside of the keyboard.
 - ✅ Mode setting keys.
 - ✅ Macros powered by a custom software where display settings, etc can be controlled.
 - ✅ Either a built in kickstand or some attachment/feature to increase the angle of the keyboard (3d printable after assembly).
