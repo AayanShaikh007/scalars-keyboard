@@ -69,7 +69,7 @@ I wanted to test some components before soldering them onto the PCB. I tested th
 # July 5th and 6th 
 I spent the last two days just soldering all of the remaining kalih hotswap sockets and diodes. Other than that, I soldered some small components such as the rotary encoder and the OLED panel. Now with the PCB finished, I got ready to test the firmware and the pcb by putting in all the keyswitches. 
 
-![1000003592](https://github.com/user-attachments/assets/b3edea70-0c73-42ab-b38c-578e8bd06bc7)
+![1000003592](https://github.com/user-attachments/assets/29354a1e-4430-4b02-b289-690c546f965d)
 
 
 # July 7th and 8th. 
