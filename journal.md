@@ -67,7 +67,8 @@ Now that all parts have arrived, i began soldering the board. i started small by
 I wanted to test some components before soldering them onto the PCB. I tested the pico, and once that was secured to the PCB, I worked on getting some of the firmware to work. All components work as intended thus far. It took me quite some time to get the hang of uploading firmware to the pico by way of adding the files to the circuitpy drive. etc. 
 
 # July 5th and 6th 
-I spent the last two days just soldering all of the remaining kalih hotswap sockets and diodes. Other than that, I soldered some small components such as the rotary encoder and the OLED panel. 
+I spent the last two days just soldering all of the remaining kalih hotswap sockets and diodes. Other than that, I soldered some small components such as the rotary encoder and the OLED panel. Now with the PCB finished, I got ready to test the firmware and the pcb by putting in all the keyswitches. 
+
 ![1000003592](https://github.com/user-attachments/assets/b3edea70-0c73-42ab-b38c-578e8bd06bc7)
 
 
