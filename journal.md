@@ -61,5 +61,14 @@ This should conclude the project! I will add updates as I assemble the actual pa
 # July 3rd 
 Now that all parts have arrived, i began soldering the board. i started small by just soldering a couple of diodes for today.
 
+
 # July 4th
-I wanted to test some components before soldering them onto the PCB. I tested the pico, and once that was secured to the PCB, I worked on getting some of the rgb LEDs to work. All components work as intended thus far.
+I wanted to test some components before soldering them onto the PCB. I tested the pico, and once that was secured to the PCB, I worked on getting some of the firmware to work. All components work as intended thus far. It took me quite some time to get the hang of uploading firmware to the pico by way of adding the files to the circuitpy drive. etc. 
+
+# July 5th and 6th 
+I spent the last two days just soldering all of the remaining kalih hotswap sockets and diodes. Other than that, I soldered some small components such as the rotary encoder and the OLED panel. 
+
+# July 7th and 8th. 
+I worked on the firmware of the keyboard for these two days. I quickly realized that my original code was completely broken because it was untested and would not work. Due to this, I needed to completely make my code from scratch (fortunately it wasnt many lines). I discovered something odd with either my keyboard or KMK- for some reason the code wouldnt work when I added any keys to the next row but if I just kept adding keys to the first line they would register. At least the code works, although it might be pretty unsightly (check screenshot).
+
+<img width="1586" height="375" alt="image" src="https://github.com/user-attachments/assets/5f9a4459-43a7-41c8-84ab-34183750f18e" />
