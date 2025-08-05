@@ -59,7 +59,7 @@ This should conclude the project! I will add updates as I assemble the actual pa
 
 # July 3rd 
 Now that all parts have arrived, i began soldering the board. i started small by just soldering a couple of diodes for today.
-![1000003588](https://github.com/user-attachments/assets/5ef69aab-f349-4162-8908-ab371bb2f659)
+
 
 
 # July 4th
