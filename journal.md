@@ -69,6 +69,10 @@ I wanted to test some components before soldering them onto the PCB. I tested th
 I spent the last two days just soldering all of the remaining kalih hotswap sockets and diodes. Other than that, I soldered some small components such as the rotary encoder and the OLED panel. 
 
 # July 7th and 8th. 
-I worked on the firmware of the keyboard for these two days. I quickly realized that my original code was completely broken because it was untested and would not work. Due to this, I needed to completely make my code from scratch (fortunately it wasnt many lines). I discovered something odd with either my keyboard or KMK- for some reason the code wouldnt work when I added any keys to the next row but if I just kept adding keys to the first line they would register. At least the code works, although it might be pretty unsightly (check screenshot).
+I worked on the firmware of the keyboard for these two days. I quickly realized that my original code was completely broken because it was untested and would not work. Due to this, I needed to completely make my code from scratch (fortunately it wasnt many lines). I discovered something odd with either my keyboard or KMK- for some reason the code wouldnt work when I added any keys to the next row but if I just kept adding keys to the first line they would register. At least the code works, although it might be pretty unsightly (check screenshot). I also started printing the case.
+
 
 <img width="1586" height="375" alt="image" src="https://github.com/user-attachments/assets/5f9a4459-43a7-41c8-84ab-34183750f18e" />
+
+# July 17th
+After undercity, I got back to work on the case of the keyboard. After printing a number of failed top plate designs, I realized that I could print one that fits inside the case, flush with the top of the case. After spending around 1-2 hours modelling the top plate, I printed a plate that actually fit properly. I then spent a few hours removing all of the keycaps and keyswitches, inserting them into the top plate, and securing them to the pcb again.  
