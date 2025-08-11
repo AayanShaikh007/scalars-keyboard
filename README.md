@@ -1,7 +1,7 @@
 # Scalar's Keyboard
 **Scroll down to see the finished product + YT demo!**
 
-A custom made keyboard, built + designed completely in house! 
+A custom made keyboard, built + designed completely in house!   
 
 
 ## Description
