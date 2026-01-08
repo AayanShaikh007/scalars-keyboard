@@ -1,4 +1,4 @@
-# Scalar's Keyboard
+# KB-01 - Custom Keyboard Fully Engineered from scratch
 **Scroll down to see the finished product + YT demo!**
 
 A custom made keyboard, built + designed completely in house!   
